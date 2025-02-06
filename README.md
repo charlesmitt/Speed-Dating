@@ -1,5 +1,4 @@
 # Speed-Dating
-Projet Tinder
 The goal of this project is to use the "Speed Dating" dataset from Tinder (available in the "datasets" folder) and do some EDA on it. 
 Using different Python librairies, I'll try to answer the following questions :
 
