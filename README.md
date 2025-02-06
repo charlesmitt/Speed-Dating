@@ -13,3 +13,4 @@ The project is divided in two notebooks, the data cleaning/preparation (1_cleani
 
 Below you will find the according presentation (in frenglish), resuming the exploration done on this dataset.
 
+<img src="images/Speed Dating_1.png" width="600">
